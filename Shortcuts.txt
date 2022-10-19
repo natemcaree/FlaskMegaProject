@@ -1,0 +1,1 @@
+activate scripts windows: Set-ExecutionPolicy Unrestricted -Scope Process
